@@ -1,15 +1,15 @@
 .SearchResults {
   width: 50%;
-  height: 950px;
+  height: 250px;
   overflow-y: scroll;
   padding: .88rem;
-  background-color: rgba(1, 12, 63, 0.7);
-  box-shadow: 0 4px 2px 2px #000000;
+  background-color: #333333;
+  box-shadow: 0 4px 2px 2px #333333;
 }
 
 ::-webkit-scrollbar {
-    width: 0px;
-    background: transparent;
+  width: 0px;
+  background: transparent;
 }
 
 @media only screen and (max-width: 1020px) {
